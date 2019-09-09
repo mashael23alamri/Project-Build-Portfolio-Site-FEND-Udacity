@@ -7,7 +7,7 @@
 
 3.I used a bootstrap to make the page more responsive.
 
-----------------------------------------------------------
+
 
 # Resources
 - [link to site w3schools](https://www.w3schools.com/default.asp) 
